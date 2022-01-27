@@ -88,4 +88,4 @@ The magic url is `https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q
 
 The attributes, `f_auto`, and `q_auto` allow for Cloudinary to pick the format and quality of the image. Those two attributes pick a format such as `avif`,`webp`,and `jpg` and also pick the quality of the image.
 
-![Our National Parks](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto/ar_4:3,c_fill/c_scale,w_auto/dpr_auto/v1630365154/park.jpg)
+![Our National Parks](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,c_fill,c_scale,w_auto:breakpoints_200_1920_30_15/v1630365154/park.jpg)
